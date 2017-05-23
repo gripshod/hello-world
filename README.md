@@ -1,2 +1,7 @@
 # hello-world
-My first repository
+
+Hi my name is gonzo!
+
+Gonzo likes programming, cookies, and pictures.
+
+Gonzo
